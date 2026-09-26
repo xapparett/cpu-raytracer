@@ -1,7 +1,7 @@
 # cpu-raytracer
 cpu-raytracer is a basic C++ ray tracer on the CPU, made with no libraries (except stb_image_write). The code *may not* be the best, but it does the job.
 
-This was made by following the first part of the [Ray Tracing in One Weekend](https://raytracing.github.io/) series.
+This was made by (mostly) following the first part of the [Ray Tracing in One Weekend](https://raytracing.github.io/) series.
 
 ## results
 ![balls](rtout/09262026_115036.png)
